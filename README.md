@@ -4,17 +4,17 @@ A collection of beginner to intermediate-level Python projects created to streng
 
 ✅ What's Included
 🔹 Games
-Dice Roller
-Quiz Game
-Slot Machine
-Number Guessing Game
-Word Guessing Game
+Dice Roller,
+Quiz Game,
+Slot Machine,
+Number Guessing Game,
+Word Guessing Game,
 Tic Tac Toe
 🔹 Utilities
-Password Generator
-Password Strength Checker
-ATM Simulator
-Simple Text Editor
+Password Generator,
+Password Strength Checker,
+ATM Simulator,
+Simple Text Editor,
 To-Do List App
 
 💡 Why This Repo?
